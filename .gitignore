@@ -1,4 +1,3 @@
-.gradle
 .DS_Store
 
 # built application files
@@ -33,11 +32,10 @@ project.properties
 
 # idea project files
 .idea/
-.idea/.name
 *.iml
 *.ipr
 *.iws
 
-##Gradle-based build
+# Gradle-based build
 .gradle
 build/
